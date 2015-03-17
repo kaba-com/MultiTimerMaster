@@ -1,0 +1,48 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Matthew Tole",
+    "longName": "Multi Timer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9]",
+                "file": "fonts/audi.ttf",
+                "name": "FONT_AUDI_70_BOLD",
+                "type": "font"
+            },
+            {
+                "file": "data/about.txt",
+                "name": "TEXT_ABOUT",
+                "type": "raw"
+            },
+            {
+                "file": "images/alarm.png",
+                "name": "IMAGE_ALARM",
+                "type": "png"
+            },
+            {
+                "file": "images/icons.png",
+                "name": "ICONS_16",
+                "type": "png"
+            },
+            {
+                "file": "images/menu.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Multi Timer",
+    "uuid": "0db6a55e-b32a-4b03-b037-95637bf306ff",
+    "versionCode": 1,
+    "versionLabel": "3.4",
+    "watchapp": {
+        "watchface": false
+    }
+}

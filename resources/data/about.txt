@@ -1,0 +1,5 @@
+Multi Timer is a Pebble app developed by Matthew Tole.
+
+If you like this app, please consider donating to help fund future development.
+
+Go to http://matthewtole.com/pebble/ for details.
